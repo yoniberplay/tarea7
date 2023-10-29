@@ -1,4 +1,4 @@
-#Wed Oct 25 22:41:28 GMT-04:00 2023
+#Sat Oct 28 23:05:17 GMT-04:00 2023
 base.0=C\:\\Users\\yonib\\Desktop\\PlataformaItla\\8cuatrimestre\\app moviles\\tarea7\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 base.1=C\:\\Users\\yonib\\Desktop\\PlataformaItla\\8cuatrimestre\\app moviles\\tarea7\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
 path.0=classes.dex
